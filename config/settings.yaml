@@ -1,0 +1,3 @@
+data_paths:
+  rainfall_data: "data/raw/state_rainfall.csv"
+  crop_data: "data/raw/crop_production_2020.csv"

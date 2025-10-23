@@ -1,0 +1,6 @@
+State,District,Crop,Year,Season,Area,Production,Yield
+State_X,District_1,Wheat,2022,Rabi,1200,3600,3.0
+State_X,District_2,Rice,2022,Kharif,1500,4500,3.0
+State_Y,District_3,Wheat,2022,Rabi,1000,2800,2.8
+State_Y,District_4,Rice,2022,Kharif,1300,3900,3.0
+State_X,District_1,Wheat,2023,Rabi,1250,3750,3.0

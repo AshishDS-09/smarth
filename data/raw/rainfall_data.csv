@@ -1,0 +1,7 @@
+State,District,Year,Month,Rainfall_mm
+State_X,District_1,2022,1,75
+State_X,District_1,2022,2,80
+State_Y,District_3,2022,1,65
+State_Y,District_4,2022,2,70
+State_X,District_1,2023,1,78
+State_X,District_2,2023,2,82
