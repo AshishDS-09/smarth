@@ -1,6 +1,6 @@
 # Project Samarth – Intelligent Q&A System
 
-[![CI](https://github.com/promptedbyesha/samarth-project/actions/workflows/ci-cd-pipeline.yml/badge.svg)](https://github.com/promptedbyesha/samarth-project/actions)
+
 
 ---
 
