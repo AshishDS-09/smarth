@@ -30,8 +30,9 @@ Project Samarth is an intelligent Q&A system that enables users to ask complex, 
 
 ## 🖥️ Demo
 
-<!-- (Add screenshot or Loom demo link below when available) -->
-<!-- ![Demo Screenshot](docs/demo-screenshot.png) -->
+<img width="1242" height="812" alt="image" src="https://github.com/user-attachments/assets/5d946123-d16c-4be0-b789-56139c5f7529" />
+<img width="690" height="335" alt="image" src="https://github.com/user-attachments/assets/5a46041e-84a6-4f6f-8a12-9b3c7b4162d5" />
+
 
 **Sample Queries:**
 
@@ -67,6 +68,7 @@ docker run -p 8501:8501 samarth-app
 
 ## 📂 Project Structure
 
+```text
 samarth-project/
 ├── src/ # Application code
 ├── data/ # Raw and processed datasets
@@ -76,6 +78,7 @@ samarth-project/
 ├── deployment/ # Docker, CI/CD, nginx configs
 ├── config/ # YAML and logging configs
 └── ...
+```
 
 ---
 
@@ -99,7 +102,12 @@ samarth-project/
 
 ## 📈 Results & Visualizations
 
-*Insert graphs or screenshots from your exploratory notebook, or describe key system findings here.*
+<img width="885" height="532" alt="image" src="https://github.com/user-attachments/assets/67a5e1cf-c99e-45f9-97fd-7a27b8f386fb" />
+<img width="746" height="597" alt="image" src="https://github.com/user-attachments/assets/7ac1b880-68a2-4ac4-8f9e-cb009c94e994" />
+<img width="676" height="340" alt="image" src="https://github.com/user-attachments/assets/fbda764c-5ac7-4523-860b-b45f95fd553a" />
+<img width="1242" height="812" alt="image" src="https://github.com/user-attachments/assets/3cf2f7ac-c704-483f-add1-9af4002d3bf5" />
+
+
 
 ---
 
