@@ -1,5 +1,6 @@
 import streamlit as st # type: ignore
-from src.api.query_handler import answer_question
+from api.query_handler import answer_question
+
 
 st.title("Project Samarth - Intelligent Q&A on Agriculture & Climate")
 
