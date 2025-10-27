@@ -30,8 +30,6 @@ Project Samarth is an intelligent Q&A system that enables users to ask complex, 
 
 ## 🖥️ Demo
 
-<img width="1242" height="812" alt="image" src="https://github.com/user-attachments/assets/5d946123-d16c-4be0-b789-56139c5f7529" />
-
 <img width="690" height="335" alt="image" src="https://github.com/user-attachments/assets/5a46041e-84a6-4f6f-8a12-9b3c7b4162d5" />
 
 
@@ -50,11 +48,6 @@ Project Samarth is an intelligent Q&A system that enables users to ask complex, 
 - Python 3.10+ (with [pip](https://docs.python.org/3/installing/index.html) or pipenv/conda)
 - Docker (optional, for full containerization)
 
-### Installation
-
-git clone <https://github.com/promptedbyesha/samarth-project.git>
-cd samarth-project
-pip install -r requirements.txt
 
 ### Running Locally
 
