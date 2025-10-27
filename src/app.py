@@ -2,9 +2,9 @@ import streamlit as st # type: ignore
 from api.query_handler import answer_question
 
 
-st.title("Project Samarth - Intelligent Q&A on Agriculture & Climate")
+st.title("Project Samarth - Intelligent Q&A on Agriculture")
 
-user_question = st.text_input("Ask your question about India's agriculture and climate:")
+user_question = st.text_input("Ask your question about India's agriculture:")
 
 if user_question:
     with st.spinner("Fetching answer..."):
